@@ -19,9 +19,9 @@ else:
     import urllib.request
     import urllib.parse
 arif = ARIFISTIFIK.LINE()
-arif.login(token="EuKaTBwEpquRqW4J4ZIc.YiNb/pDcDpex4kdwNmXvNa.6xGWmU5Zz4DV3tmn1YzxmFB7yAqkD6OzZ62fq5PoQNQ=")
+arif.login(token="EvlHVX3I9E6Z5MVp7qy0.+HChRPSV96THufEvT5Luqa.NJ8edc6OOD95LoMh2UPCmDPve/qWgjbRTvxyPdszRCw=")
 arif.loginResult()
-print "━━━「arif login success」━━━"
+print "━━━「登入成功」━━━"
 reload(sys)
 sys.setdefaultencoding('utf-8')
 helpMenu="""┏━━━「 ǞЯiբisƮiբiκ」━━━┓
@@ -286,8 +286,8 @@ translateMessage ="""
 KAC=[arif]
 mid = arif.getProfile().mid
 Bots=["mid"]
-Admin=["u65224f4e8812136f01b25275a54b5aef"]
-Creator=["u65224f4e8812136f01b25275a54b5aef"]
+Admin=["ufe1707ae9b2ff7ab61505795b7995440"]
+Creator=["ufe1707ae9b2ff7ab61505795b7995440"]
 
 readOpen = codecs.open("st2__b.json","r","utf-8")
 read = json.load(readOpen)
